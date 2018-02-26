@@ -1,6 +1,6 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
-<title>Holi Wishing Script</title>
+
 <meta property="og:title" content="holi Wishing Script" />
 <meta property="og:type" content="" />
 <meta property="og:url" content="https://luruluru.github.io/Holi-Wishing-Script/" />
