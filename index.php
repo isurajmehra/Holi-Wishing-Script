@@ -5,7 +5,7 @@ if(isset($_GET['n']))
 }
 else
 {
-	$n = "Your Name";
+	$n = "[Your Name]";
 }
 ?>
 <html>
@@ -26,7 +26,7 @@ else
     <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 <script language="javascript" src="jquery.min.js"></script>
 <script language="javascript" src="fire.js"></script>
-<style type="text/css">.layer:after{content:'[<?php echo $n;?>]';}</style>
+<style type="text/css">.layer:after{content:'<?php echo $n;?>';}</style>
 </head>
 
 <body>
